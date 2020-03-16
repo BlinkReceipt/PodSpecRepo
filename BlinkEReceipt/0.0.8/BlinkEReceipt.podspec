@@ -20,7 +20,7 @@ This is the BlinkEReceipt extension for the BlinkReceipt SDK
 
   s.vendored_frameworks = ["BlinkEReceipt.framework"]
   
-  s.dependency 'BlinkReceipt', '>= 1.8.3'
+  s.dependency 'BlinkReceipt', '>= 1.8.6'
   s.dependency 'GoogleAPIClientForREST/Gmail', '~> 1.3'
   s.dependency 'GoogleSignIn', '4.1.2'
   s.dependency 'MSGraphSDK'
