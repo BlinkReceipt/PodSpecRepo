@@ -18,7 +18,7 @@ This is the BlinkReceipt SDK
   
   s.source       = { :git => "https://github.com/BlinkReceipt/blinkreceipt-ios.git", :tag => "#{s.version}" }
 
-  s.vendored_frameworks = ["BlinkReceipt/BlinkReceipt.xcframework"]
+  s.vendored_frameworks = ["BlinkReceipt.xcframework"]
   
   s.user_target_xcconfig = { 'BLINKRECEIPT_VERSION' => s.version }
 
